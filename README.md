@@ -44,6 +44,3 @@ Esta calculadora permite realizar las siguientes operaciones:
 - [ ] Implementar una interfaz gráfica
 - [ ] Agregar historial de operaciones
 - [ ] Incluir funciones trigonométricas
-
----
-*Hecho con ❤️ por [Darya]*
